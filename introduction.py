@@ -1,0 +1,10 @@
+print("Pramit Dahal")
+print("Address:Budanilkantha,kapan")
+print("Email:Pramitdahal04@gmail.com")
+print("City:Kathmandu")
+print("country:Nepal")
+# python python
+print("\"mother\"s")
+print("\"mother's\"")
+print("\'mother\"s")
+print('"mothers"')
